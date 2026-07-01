@@ -46,8 +46,10 @@
                   "type" : "component"
                 }, {
                   "attributes" : {
+                    "flowArguments" : "[{\"label\":\"id\",\"dataType\":\"String\",\"supportsRecordId\":false,\"inputType\":\"text\",\"name\":\"id\",\"type\":\"String\",\"value\":\"{!GUID}\"}]",
                     "flowName" : "{\"flowName\":\"Checkout_Flow\",\"flowLabel\":\"Checkout Flow\"}"
                   },
+                  "customCssClasses" : "flow",
                   "definition" : "dxp_flow:flow",
                   "id" : "0b5b868f-4990-4b43-a6d8-3f5286d2c096",
                   "type" : "component"
